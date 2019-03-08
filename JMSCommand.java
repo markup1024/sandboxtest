@@ -3,6 +3,8 @@ package com.timeinc.tcs.jms;
 /**
  * Insert the type's description here.
 
+// new changes
+
 // new change
  * Creation date: (10/19/01 2:35:30 PM)
  * @author: Administrator
